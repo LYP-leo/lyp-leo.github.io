@@ -2,8 +2,8 @@ title: Yipeng Lin's Homepage
 page-top-title: Yipeng Lin
 top-section-bg-text: Computer Science
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+  - static/assets/background/background_0.jpg
+  - static/assets/background/background_1.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Yipeng Lin 2026. All Rights Reserved.'
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: Yipeng Lin&ensp;|&ensp;姓名
+    title: Yipeng Lin&ensp;|&ensp;林依芃
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
